@@ -6,9 +6,9 @@ echo -e "special thanks to t.me/nirvan_marg \e[0m"
     			 
 
 			
-read -p "Enter Username : " U
+read -p "ammodyahya : " U
 		         	
-read -p "Enter password :" -s S
+read -p "05349348600Sakura@! :" -s S
 		 	 	
 python3 ins.py "$U" "$S"
 
